@@ -5,3 +5,5 @@ Seguindo os ensinamentos do curso de Jogos Clássicos parte 2 da Alura, recriei 
 Clique na tela do jogo para focar e use as setas do teclado para cima e para baixo para movimentar o personagem. O objetivo é cruzar a rua sem ser atingido pelos carros. Cada vez que atravessar em segurança, um ponto é adicionado. Cada vez que for atingido, um ponto é perdido.
 
 <b>Todos os direitos autorais reservados. Projeto criado com fins educacionais sem interesse comercial.</b>
+
+<img src="https://media-exp1.licdn.com/dms/image/C5622AQHgEFU5HtYN_Q/feedshare-shrink_800/0/1646870522412?e=1651104000&v=beta&t=BhpBOOHKNxkU7XCUE-AGiU7xPQv9_Tm_BaBZFgeR6R4">
